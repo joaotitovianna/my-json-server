@@ -21,46 +21,25 @@
             "url": "https://www.udemy.com/react-16/"
         }
     ],
-    "alunos": [
+    "mensagens": [
         {
             "id": 1,
-            "nome": "Marcela da Silva",
-            "curso": 1
+            "type": "FILE",
+            "value": "https://www.caceres.mt.gov.br/fotos_institucional_downloads/2.pdf"
         },
         {
             "id": 2,
-            "nome": "José Luiz Felipe",
-            "curso": 2
+            "type": "TEXT",
+            "value": "Teste retorno texto!"
         },
         {
             "id": 3,
-            "nome": "Paulo Rogério",
-            "curso": 3
-        },
-        {
-            "id": 4,
-            "nome": "Felipe da Cunha",
-            "curso": 1
-        },
-        {
-            "id": 5,
-            "nome": "Luiza Cardoso Pereira",
-            "curso": 1
+            "type": "IMAGE",
+            "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-TestLogo.svg.png"
         }
     ],
-    "empresa": {
-        "nome": "Code Prestige"
-    },
     "boleto": {
         "type": "FILE",
         "value": "https://www.caceres.mt.gov.br/fotos_institucional_downloads/2.pdf"
-    },
-    "texto": {
-        "type": "TEXT",
-        "value": "Teste retorno texto!"
-    },
-    "imagem": {
-        "type": "IMAGE",
-        "value": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-TestLogo.svg.png",
     }
 }
